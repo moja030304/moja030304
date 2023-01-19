@@ -3,10 +3,10 @@
 
 
 ### Software
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-4848d6?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+#### Visual studio code / Visual studio / Git
 
 ### Language
-C / Java / Python / Javascripts
+C / Python / Javascripts
 
 ## contact 💖 via email = glue17213@gmail.com
 

@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**moja030304/moja030304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JunseokYun&fontAlign=50&fontAlignY=40&color=gradient)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-4848d6?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+
+### Language
+C / Java / Python / Javascripts
+
+## contact 💖 via email = glue17213@gmail.com
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wicaduce)](https://solved.ac/wicaduce/)
+
+
